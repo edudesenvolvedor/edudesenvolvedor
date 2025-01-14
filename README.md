@@ -25,8 +25,8 @@
 
 ## 📈 Minhas Estatísticas no GitHub
 
-![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=dark)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=dark)  
+![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=edudesenvolvedor&show_icons=true&theme=dark)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=edudesenvolvedor&layout=compact&theme=dark)  
 
 ---
 
