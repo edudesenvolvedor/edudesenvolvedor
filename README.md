@@ -32,9 +32,9 @@
 
 ## 🌐 Como me encontrar
 
-- 📧 Email: [seuemail@dominio.com](mailto:eduardo@eapprojetos.com.br)  
-- 💼 LinkedIn: [seulinkedin](https://www.linkedin.com/in/edudesenvolvedor)  
-- 🐦 Twitter: [@seutwitter](https://twitter.com/edudesenvolvedor)  
+- 📧 Email: [eduardo@eapprojetos.com.br](mailto:eduardo@eapprojetos.com.br)  
+- 💼 LinkedIn: [edudesenvolvedor](https://www.linkedin.com/in/edudesenvolvedor)  
+- 🐦 Twitter: [@edudesenvolvedor](https://twitter.com/edudesenvolvedor)  
 
 ---
 
