@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]!
+# 👋 Olá, eu sou o Eduardo!
 
 🎯 Desenvolvedor Fullstack especializado em **PHP** e **JavaScript**.  
 💻 Experiência em criar soluções robustas e escaláveis com **Laravel**, **NestJS**, **React**, e **Next.js**.  
